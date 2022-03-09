@@ -12,6 +12,17 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - H2 Database
 - OpenFeign
 
+### Classes
+- Cliente
+- Profissional
+- Endereco
+
+### Pacotes
+- controller
+- model
+- repository
+- service
+- service.impl
 
 
 Aplicação pode ser acessada pelo Swagger através do link abaixo
